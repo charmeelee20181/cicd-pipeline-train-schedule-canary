@@ -47,4 +47,3 @@ spec:
         resources:
           requests:
             cpu: 200m
-© 2021 GitHub, Inc.
